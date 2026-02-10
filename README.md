@@ -1,0 +1,4 @@
+- Name: Ashvin Ganesan
+- ![photo](64051164.png) This isn't really a meme, but it's a fancy fractal :)
+- Grad year: 2027
+- Subproject: Autonomy nav2
